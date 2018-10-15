@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-Z-XASH3D/xash3d.sh
+Path=/var/saves/CLV-Z-XASH3D
+Name=Xash3D
+Icon=/var/games/CLV-Z-XASH3D/CLV-Z-XASH3D.png
+
+[X-CLOVER Game]
+Code=CLV-Z-XASH3D
+TestID=0
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=xash3d
+SortRawPublisher=UNKNOWN
+Copyright=hakchi2 CE ©2018
