@@ -313,3 +313,5 @@ CMakeSettings.json
 
 # rpmbuild
 RPMS/
+classics/valve/
+classics/xash3d
